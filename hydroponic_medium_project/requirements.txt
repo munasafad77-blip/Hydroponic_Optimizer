@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+scikit-learn
+joblib
+statsmodels
+openpyxl
+streamlit
+pymoo
+xgboost
+deap
+kaleido
